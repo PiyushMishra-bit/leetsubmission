@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0075-sort-colors) |
 | [0410-split-array-largest-sum](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0075-sort-colors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -49,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0410-split-array-largest-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
