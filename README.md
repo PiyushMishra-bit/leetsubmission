@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0204-count-primes) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0075-sort-colors) |
+| [0204-count-primes](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -112,4 +114,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0796-rotate-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
