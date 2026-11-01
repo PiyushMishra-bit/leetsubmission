@@ -52,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0678-valid-parenthesis-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1528-shuffle-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0678-valid-parenthesis-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -135,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0204-count-primes) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
