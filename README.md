@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0540-single-element-in-a-sorted-array) |
+| [0565-array-nesting](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0565-array-nesting) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0932-beautiful-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0932-beautiful-array) |
 | [0941-valid-mountain-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0941-valid-mountain-array) |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0074-search-a-2d-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0565-array-nesting](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0565-array-nesting) |
 <!---LeetCode Topics End-->
