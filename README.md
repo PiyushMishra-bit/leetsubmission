@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0678-valid-parenthesis-string) |
+| [1416-restore-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1416-restore-the-array) |
 ## Greedy
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0796-rotate-string) |
+| [1416-restore-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1416-restore-the-array) |
 | [1528-shuffle-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1528-shuffle-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2716-minimize-string-length](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/2716-minimize-string-length) |
