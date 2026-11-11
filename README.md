@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0565-array-nesting](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0565-array-nesting) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0896-monotonic-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0896-monotonic-array) |
 | [0932-beautiful-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0932-beautiful-array) |
 | [0941-valid-mountain-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0941-valid-mountain-array) |
 | [1122-relative-sort-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1122-relative-sort-array) |
