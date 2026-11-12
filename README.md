@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1528-shuffle-string) |
+| [3046-split-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3046-split-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -99,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0567-permutation-in-string) |
 | [1122-relative-sort-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1122-relative-sort-array) |
 | [2716-minimize-string-length](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/2716-minimize-string-length) |
+| [3046-split-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3046-split-the-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1122-relative-sort-array) |
+| [3046-split-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3046-split-the-array) |
 ## String
 |  |
 | ------- |
