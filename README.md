@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0565-array-nesting) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0905-sort-array-by-parity) |
 | [0932-beautiful-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0932-beautiful-array) |
 | [0941-valid-mountain-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0941-valid-mountain-array) |
 | [1122-relative-sort-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1122-relative-sort-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0075-sort-colors) |
+| [0905-sort-array-by-parity](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0905-sort-array-by-parity) |
 | [1122-relative-sort-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0567-permutation-in-string) |
+| [0905-sort-array-by-parity](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0905-sort-array-by-parity) |
 ## Quicksort
 |  |
 | ------- |
