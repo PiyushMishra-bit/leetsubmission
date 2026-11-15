@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0932-beautiful-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1486-xor-operation-in-an-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1528-shuffle-string) |
 | [3046-split-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3046-split-the-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Sorting
 |  |
 | ------- |
