@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0240-search-a-2d-matrix-ii) |
+| [0330-patching-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0565-array-nesting](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0565-array-nesting) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0678-valid-parenthesis-string) |
 ## Prefix Sum
