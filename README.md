@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0932-beautiful-array) |
 | [0941-valid-mountain-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0941-valid-mountain-array) |
 | [1122-relative-sort-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1122-relative-sort-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1528-shuffle-string) |
