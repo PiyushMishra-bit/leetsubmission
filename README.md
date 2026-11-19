@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1991-find-the-middle-index-in-array) |
 | [3046-split-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3046-split-the-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3925-concatenate-array-with-reverse](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3925-concatenate-array-with-reverse](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3925-concatenate-array-with-reverse) |
 ## Sliding Window
 |  |
 | ------- |
