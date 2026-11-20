@@ -50,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0075-sort-colors) |
+| [0767-reorganize-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0767-reorganize-string) |
 | [0905-sort-array-by-parity](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0905-sort-array-by-parity) |
 | [1122-relative-sort-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0767-reorganize-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,12 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0567-permutation-in-string) |
+| [0767-reorganize-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0767-reorganize-string) |
 | [1122-relative-sort-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1122-relative-sort-array) |
 | [2716-minimize-string-length](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/2716-minimize-string-length) |
 | [3046-split-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3046-split-the-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0767-reorganize-string) |
 | [1122-relative-sort-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1122-relative-sort-array) |
 | [3046-split-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3046-split-the-array) |
 ## String
@@ -129,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0796-rotate-string) |
 | [1416-restore-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1416-restore-the-array) |
 | [1528-shuffle-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1528-shuffle-string) |
