@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1528-shuffle-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1991-find-the-middle-index-in-array) |
+| [2451-odd-string-difference](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/2451-odd-string-difference) |
 | [3046-split-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3046-split-the-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3379-transformed-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3379-transformed-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0767-reorganize-string) |
 | [1122-relative-sort-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1122-relative-sort-array) |
+| [2451-odd-string-difference](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/2451-odd-string-difference) |
 | [2716-minimize-string-length](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/2716-minimize-string-length) |
 | [3046-split-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3046-split-the-array) |
 ## Counting Sort
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1416-restore-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1416-restore-the-array) |
 | [1528-shuffle-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1528-shuffle-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2451-odd-string-difference](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/2451-odd-string-difference) |
 | [2716-minimize-string-length](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/2716-minimize-string-length) |
 ## Stack
 |  |
