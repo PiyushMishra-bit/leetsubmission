@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1991-find-the-middle-index-in-array) |
 | [2451-odd-string-difference](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/2451-odd-string-difference) |
 | [3046-split-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3046-split-the-array) |
+| [3151-special-array-i](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3151-special-array-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3379-transformed-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3379-transformed-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/3925-concatenate-array-with-reverse) |
