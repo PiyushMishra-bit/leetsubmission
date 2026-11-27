@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0231-power-of-two) |
 | [0492-construct-the-rectangle](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0728-self-dividing-numbers) |
 | [0932-beautiful-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0932-beautiful-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1486-xor-operation-in-an-array) |
 ## Array
 |  |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0565-array-nesting](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0565-array-nesting) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
