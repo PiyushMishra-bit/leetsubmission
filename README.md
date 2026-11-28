@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0905-sort-array-by-parity) |
 | [0932-beautiful-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0932-beautiful-array) |
 | [0941-valid-mountain-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0941-valid-mountain-array) |
+| [0942-di-string-match](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0942-di-string-match) |
 | [1122-relative-sort-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1122-relative-sort-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0767-reorganize-string) |
+| [0942-di-string-match](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0942-di-string-match) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0905-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0942-di-string-match) |
 ## Quicksort
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0796-rotate-string) |
+| [0942-di-string-match](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/0942-di-string-match) |
 | [1416-restore-the-array](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1416-restore-the-array) |
 | [1528-shuffle-string](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1528-shuffle-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PiyushMishra-bit/leetsubmission/tree/master/1910-remove-all-occurrences-of-a-substring) |
